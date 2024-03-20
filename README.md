@@ -14,5 +14,6 @@ PLaying around with Flexbox to see how everything works
 Want to learn more about Flexbox and practice using html and css more.
 
 ## Lessons Learned:
-
+Learned how to make buttons with images go to links
+Learned target="_blank" rel="noopener noreferrer" when redirecting to other website to prevent tabnabbing
 
